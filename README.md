@@ -39,6 +39,7 @@ would trivially "solve" the task without touching biology. `main.py` now
 explicitly excludes all `exposures.*` fields from Task 3's inputs, and all
 `diagnoses.ajcc*` (T/N/M) fields from Task 2's inputs (since stage is
 literally derived from those). Metrics below are honest, post-fix numbers.
+<<<<<<< HEAD
 
 ## Results (5-fold stratified cross-validation, not in-sample)
 
@@ -160,3 +161,5 @@ streamlit run streamlit_app/app.py
 - **Leakage guards** are explicit and documented in `main.py` /
   `config.yaml` (`leakage_prefixes`) rather than implicit — this is the kind
   of thing that's easy to accidentally get "too good" results on.
+=======
+>>>>>>> 842040064d5e4c931072b1eb04f1a31e7acd58f5
