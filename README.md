@@ -39,7 +39,6 @@ would trivially "solve" the task without touching biology. `main.py` now
 explicitly excludes all `exposures.*` fields from Task 3's inputs, and all
 `diagnoses.ajcc*` (T/N/M) fields from Task 2's inputs (since stage is
 literally derived from those). Metrics below are honest, post-fix numbers.
-<<<<<<< HEAD
 
 ## Results (5-fold stratified cross-validation, not in-sample)
 
@@ -161,5 +160,33 @@ streamlit run streamlit_app/app.py
 - **Leakage guards** are explicit and documented in `main.py` /
   `config.yaml` (`leakage_prefixes`) rather than implicit — this is the kind
   of thing that's easy to accidentally get "too good" results on.
-=======
->>>>>>> 842040064d5e4c931072b1eb04f1a31e7acd58f5
+
+## Recent changes
+
+A full, versioned history lives in [CHANGELOG.md](CHANGELOG.md). Highlights of
+the most recent iteration:
+
+- **Redesigned dashboard UI** — a modern, professional healthcare look applied
+  consistently across every page, driven by a single shared theme in
+  `streamlit_app/ui/theme.py` (clinical palette, shared Plotly template, hero
+  headers, section titles, metric cards, styled tabs, and card containers).
+- **Sidebar credits** — a credit block pinned to the bottom of the sidebar on
+  every page (Built by Salman Khan & Team · NeoHack GIKI Edition 2025 · in
+  collaboration with Precision Medicine Lab).
+- **scikit-learn compatibility fix** — resolved
+  `AttributeError: 'LogisticRegression' object has no attribute 'multi_class'`
+  on the Prediction page (caused by loading models pickled with scikit-learn
+  1.8.0 under runtime 1.7.2). The model loader now backfills the missing
+  attribute at load time so `predict_proba` works across tasks.
+- **Project governance docs** — added `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`,
+  `CHANGELOG.md`, and `.gitignore`.
+
+## Contributing
+
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for
+setup, coding standards, UI/theming conventions, and pull-request guidelines,
+and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## License
+
+Released under the [MIT License](LICENSE).
