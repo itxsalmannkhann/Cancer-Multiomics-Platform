@@ -1,0 +1,72 @@
+{
+  "task": "task1_tumor_vs_normal",
+  "label_col": "sample_type",
+  "classes": [
+    "Normal",
+    "Tumor"
+  ],
+  "n_samples": 88,
+  "n_features_total": 4000,
+  "k_best_selected": 50,
+  "cv_folds": 5,
+  "best_model": "logistic_regression",
+  "all_model_results": {
+    "logistic_regression": {
+      "accuracy": 0.9772727272727273,
+      "macro_f1": 0.8939759036144579,
+      "weighted_f1": 0.9751369112814895,
+      "precision_macro": 0.9880952380952381,
+      "recall_macro": 0.8333333333333333,
+      "cohen_kappa": 0.7884615384615384,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          4,
+          2
+        ],
+        [
+          0,
+          82
+        ]
+      ]
+    },
+    "random_forest": {
+      "accuracy": 0.9772727272727273,
+      "macro_f1": 0.8939759036144579,
+      "weighted_f1": 0.9751369112814895,
+      "precision_macro": 0.9880952380952381,
+      "recall_macro": 0.8333333333333333,
+      "cohen_kappa": 0.7884615384615384,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          4,
+          2
+        ],
+        [
+          0,
+          82
+        ]
+      ]
+    },
+    "lightgbm": {
+      "accuracy": 0.9659090909090909,
+      "macro_f1": 0.8243512974051896,
+      "weighted_f1": 0.9605334784975503,
+      "precision_macro": 0.9823529411764707,
+      "recall_macro": 0.75,
+      "cohen_kappa": 0.6507936507936508,
+      "roc_auc": 0.8353658536585366,
+      "confusion_matrix": [
+        [
+          3,
+          3
+        ],
+        [
+          0,
+          82
+        ]
+      ]
+    }
+  }
+}
