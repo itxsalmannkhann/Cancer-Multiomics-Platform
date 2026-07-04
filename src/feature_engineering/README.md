@@ -1,0 +1,1 @@
+# Feature engineering lives inside preprocessing/ for this project (genome_features.py, omics_loader.py) since feature engineering is tightly coupled to each modality's raw format. This folder is kept for structure/extensibility (e.g. adding cross-modality engineered features here).
