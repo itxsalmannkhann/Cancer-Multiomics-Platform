@@ -1,0 +1,1396 @@
+[
+  {
+    "patient_id": "TCGA-BA-4074",
+    "most_similar_patients": [
+      "TCGA-DQ-5631",
+      "TCGA-D6-6823",
+      "TCGA-CV-7255",
+      "TCGA-CR-7379",
+      "TCGA-CX-7086"
+    ],
+    "similarity_scores": [
+      0.7166,
+      0.6312,
+      0.623,
+      0.5946,
+      0.5588
+    ]
+  },
+  {
+    "patient_id": "TCGA-BA-4077",
+    "most_similar_patients": [
+      "TCGA-BA-7269",
+      "TCGA-CV-6948",
+      "TCGA-CR-7368",
+      "TCGA-CV-6441",
+      "TCGA-CV-7235"
+    ],
+    "similarity_scores": [
+      0.6543,
+      0.6281,
+      0.5376,
+      0.4701,
+      0.4647
+    ]
+  },
+  {
+    "patient_id": "TCGA-BA-5153",
+    "most_similar_patients": [
+      "TCGA-CV-6433",
+      "TCGA-BB-4225",
+      "TCGA-BB-4228",
+      "TCGA-CR-6487",
+      "TCGA-CR-6481"
+    ],
+    "similarity_scores": [
+      0.968,
+      0.9333,
+      0.8959,
+      0.6923,
+      0.5954
+    ]
+  },
+  {
+    "patient_id": "TCGA-BA-5556",
+    "most_similar_patients": [
+      "TCGA-CQ-5331",
+      "TCGA-CR-7394",
+      "TCGA-D6-6516",
+      "TCGA-CR-6478",
+      "TCGA-BA-5557"
+    ],
+    "similarity_scores": [
+      0.9351,
+      0.6902,
+      0.6693,
+      0.6262,
+      0.6065
+    ]
+  },
+  {
+    "patient_id": "TCGA-BA-5557",
+    "most_similar_patients": [
+      "TCGA-CQ-5331",
+      "TCGA-CR-7391",
+      "TCGA-CR-7394",
+      "TCGA-CN-4729",
+      "TCGA-CR-7401"
+    ],
+    "similarity_scores": [
+      0.7801,
+      0.7217,
+      0.7157,
+      0.6878,
+      0.6751
+    ]
+  },
+  {
+    "patient_id": "TCGA-BA-6872",
+    "most_similar_patients": [
+      "TCGA-CV-7434",
+      "TCGA-CQ-5334",
+      "TCGA-CQ-7068",
+      "TCGA-BA-6873",
+      "TCGA-CR-7373"
+    ],
+    "similarity_scores": [
+      0.8511,
+      0.7002,
+      0.6851,
+      0.644,
+      0.6426
+    ]
+  },
+  {
+    "patient_id": "TCGA-BA-6873",
+    "most_similar_patients": [
+      "TCGA-CQ-5334",
+      "TCGA-CN-6995",
+      "TCGA-CV-7434",
+      "TCGA-CQ-5330",
+      "TCGA-BA-6872"
+    ],
+    "similarity_scores": [
+      0.8338,
+      0.8193,
+      0.7329,
+      0.724,
+      0.644
+    ]
+  },
+  {
+    "patient_id": "TCGA-BA-7269",
+    "most_similar_patients": [
+      "TCGA-CV-6945",
+      "TCGA-BA-4077",
+      "TCGA-CV-6948",
+      "TCGA-CV-7235",
+      "TCGA-DQ-5624"
+    ],
+    "similarity_scores": [
+      0.7786,
+      0.6543,
+      0.5417,
+      0.532,
+      0.4036
+    ]
+  },
+  {
+    "patient_id": "TCGA-BB-4224",
+    "most_similar_patients": [
+      "TCGA-CQ-7065",
+      "TCGA-CV-6956",
+      "TCGA-CV-5973",
+      "TCGA-CV-5979",
+      "TCGA-CV-7255"
+    ],
+    "similarity_scores": [
+      0.9129,
+      0.8436,
+      0.8286,
+      0.8068,
+      0.7955
+    ]
+  },
+  {
+    "patient_id": "TCGA-BB-4225",
+    "most_similar_patients": [
+      "TCGA-BB-4228",
+      "TCGA-BA-5153",
+      "TCGA-CV-6433",
+      "TCGA-CN-4741",
+      "TCGA-CR-6487"
+    ],
+    "similarity_scores": [
+      0.981,
+      0.9333,
+      0.8854,
+      0.5926,
+      0.5658
+    ]
+  },
+  {
+    "patient_id": "TCGA-BB-4228",
+    "most_similar_patients": [
+      "TCGA-BB-4225",
+      "TCGA-BA-5153",
+      "TCGA-CV-6433",
+      "TCGA-CN-4741",
+      "TCGA-CR-6487"
+    ],
+    "similarity_scores": [
+      0.981,
+      0.8959,
+      0.8355,
+      0.5389,
+      0.4767
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-4726",
+    "most_similar_patients": [
+      "TCGA-CV-7183",
+      "TCGA-CQ-5334",
+      "TCGA-BA-5557",
+      "TCGA-CV-7411",
+      "TCGA-D6-6516"
+    ],
+    "similarity_scores": [
+      0.6832,
+      0.6361,
+      0.6126,
+      0.6052,
+      0.5326
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-4729",
+    "most_similar_patients": [
+      "TCGA-CR-7367",
+      "TCGA-BA-5557",
+      "TCGA-D6-6516",
+      "TCGA-CN-5359",
+      "TCGA-CN-4741"
+    ],
+    "similarity_scores": [
+      0.7687,
+      0.6878,
+      0.6286,
+      0.6175,
+      0.6015
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-4737",
+    "most_similar_patients": [
+      "TCGA-CV-6956",
+      "TCGA-CV-7255",
+      "TCGA-CN-4742",
+      "TCGA-CR-7379",
+      "TCGA-CR-7372"
+    ],
+    "similarity_scores": [
+      0.867,
+      0.8522,
+      0.8462,
+      0.8452,
+      0.7752
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-4740",
+    "most_similar_patients": [
+      "TCGA-CV-6934",
+      "TCGA-CV-7238",
+      "TCGA-CR-6488",
+      "TCGA-CR-7392",
+      "TCGA-CR-7376"
+    ],
+    "similarity_scores": [
+      0.8634,
+      0.7171,
+      0.681,
+      0.6609,
+      0.6477
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-4741",
+    "most_similar_patients": [
+      "TCGA-CR-7367",
+      "TCGA-CN-4729",
+      "TCGA-BB-4225",
+      "TCGA-CN-5364",
+      "TCGA-BA-5153"
+    ],
+    "similarity_scores": [
+      0.643,
+      0.6015,
+      0.5926,
+      0.5808,
+      0.5406
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-4742",
+    "most_similar_patients": [
+      "TCGA-CR-7379",
+      "TCGA-CV-7413",
+      "TCGA-CN-4737",
+      "TCGA-CR-7372",
+      "TCGA-CR-7392"
+    ],
+    "similarity_scores": [
+      0.869,
+      0.8538,
+      0.8462,
+      0.8222,
+      0.6791
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-5359",
+    "most_similar_patients": [
+      "TCGA-CR-7376",
+      "TCGA-CR-7391",
+      "TCGA-CR-6478",
+      "TCGA-CV-7236",
+      "TCGA-DQ-5624"
+    ],
+    "similarity_scores": [
+      0.8744,
+      0.8276,
+      0.7806,
+      0.7566,
+      0.7016
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-5364",
+    "most_similar_patients": [
+      "TCGA-CR-7383",
+      "TCGA-CR-6488",
+      "TCGA-CV-5971",
+      "TCGA-CR-7391",
+      "TCGA-CR-7376"
+    ],
+    "similarity_scores": [
+      0.7721,
+      0.7057,
+      0.6938,
+      0.6359,
+      0.6276
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-6016",
+    "most_similar_patients": [
+      "TCGA-CR-7383",
+      "TCGA-CV-5971",
+      "TCGA-CV-7097",
+      "TCGA-CR-7401",
+      "TCGA-CQ-5330"
+    ],
+    "similarity_scores": [
+      0.8791,
+      0.8406,
+      0.8201,
+      0.7957,
+      0.7535
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-6018",
+    "most_similar_patients": [
+      "TCGA-CV-7097",
+      "TCGA-CV-7102",
+      "TCGA-CQ-5330",
+      "TCGA-CR-7383",
+      "TCGA-CN-6016"
+    ],
+    "similarity_scores": [
+      0.8158,
+      0.7666,
+      0.7612,
+      0.7086,
+      0.6879
+    ]
+  },
+  {
+    "patient_id": "TCGA-CN-6995",
+    "most_similar_patients": [
+      "TCGA-BA-6873",
+      "TCGA-CR-6493",
+      "TCGA-CV-5979",
+      "TCGA-CR-7373",
+      "TCGA-CQ-7068"
+    ],
+    "similarity_scores": [
+      0.8193,
+      0.6701,
+      0.6392,
+      0.6235,
+      0.5339
+    ]
+  },
+  {
+    "patient_id": "TCGA-CQ-5330",
+    "most_similar_patients": [
+      "TCGA-CV-7102",
+      "TCGA-CV-7097",
+      "TCGA-DQ-5625",
+      "TCGA-CN-6018",
+      "TCGA-CN-6016"
+    ],
+    "similarity_scores": [
+      0.8723,
+      0.829,
+      0.8246,
+      0.7612,
+      0.7535
+    ]
+  },
+  {
+    "patient_id": "TCGA-CQ-5331",
+    "most_similar_patients": [
+      "TCGA-BA-5556",
+      "TCGA-CR-7394",
+      "TCGA-BA-5557",
+      "TCGA-D6-6516",
+      "TCGA-CR-6478"
+    ],
+    "similarity_scores": [
+      0.9351,
+      0.8409,
+      0.7801,
+      0.6694,
+      0.6656
+    ]
+  },
+  {
+    "patient_id": "TCGA-CQ-5332",
+    "most_similar_patients": [
+      "TCGA-CV-6948",
+      "TCGA-CX-7082",
+      "TCGA-CN-4741",
+      "TCGA-BA-7269",
+      "TCGA-CV-7235"
+    ],
+    "similarity_scores": [
+      0.6593,
+      0.3884,
+      0.3769,
+      0.34,
+      0.3297
+    ]
+  },
+  {
+    "patient_id": "TCGA-CQ-5334",
+    "most_similar_patients": [
+      "TCGA-BA-6873",
+      "TCGA-CV-7434",
+      "TCGA-D6-6516",
+      "TCGA-CQ-7068",
+      "TCGA-BA-6872"
+    ],
+    "similarity_scores": [
+      0.8338,
+      0.8251,
+      0.7152,
+      0.7031,
+      0.7002
+    ]
+  },
+  {
+    "patient_id": "TCGA-CQ-7065",
+    "most_similar_patients": [
+      "TCGA-CV-6956",
+      "TCGA-BB-4224",
+      "TCGA-CV-5979",
+      "TCGA-CV-5973",
+      "TCGA-CV-7255"
+    ],
+    "similarity_scores": [
+      0.9134,
+      0.9129,
+      0.8632,
+      0.8535,
+      0.8513
+    ]
+  },
+  {
+    "patient_id": "TCGA-CQ-7068",
+    "most_similar_patients": [
+      "TCGA-CV-7099",
+      "TCGA-CR-7373",
+      "TCGA-CV-7434",
+      "TCGA-CQ-5334",
+      "TCGA-BA-6872"
+    ],
+    "similarity_scores": [
+      0.8352,
+      0.8164,
+      0.7515,
+      0.7031,
+      0.6851
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-6477",
+    "most_similar_patients": [
+      "TCGA-HD-7831",
+      "TCGA-CR-7392",
+      "TCGA-CV-6945",
+      "TCGA-CV-7413",
+      "TCGA-DQ-5624"
+    ],
+    "similarity_scores": [
+      0.7097,
+      0.6859,
+      0.5773,
+      0.5549,
+      0.5142
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-6478",
+    "most_similar_patients": [
+      "TCGA-CN-5359",
+      "TCGA-CR-7376",
+      "TCGA-CV-7236",
+      "TCGA-CN-6018",
+      "TCGA-CQ-5331"
+    ],
+    "similarity_scores": [
+      0.7806,
+      0.715,
+      0.6991,
+      0.6692,
+      0.6656
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-6481",
+    "most_similar_patients": [
+      "TCGA-CR-6487",
+      "TCGA-CR-7385",
+      "TCGA-CR-6478",
+      "TCGA-BA-5153",
+      "TCGA-CV-6433"
+    ],
+    "similarity_scores": [
+      0.8321,
+      0.7072,
+      0.6019,
+      0.5954,
+      0.5849
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-6487",
+    "most_similar_patients": [
+      "TCGA-CR-6481",
+      "TCGA-CV-6433",
+      "TCGA-BA-5153",
+      "TCGA-CN-5364",
+      "TCGA-BB-4225"
+    ],
+    "similarity_scores": [
+      0.8321,
+      0.7221,
+      0.6923,
+      0.579,
+      0.5658
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-6488",
+    "most_similar_patients": [
+      "TCGA-CV-7238",
+      "TCGA-CR-7401",
+      "TCGA-DQ-5624",
+      "TCGA-CR-7376",
+      "TCGA-CV-5971"
+    ],
+    "similarity_scores": [
+      0.8591,
+      0.8334,
+      0.7932,
+      0.7807,
+      0.7536
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-6493",
+    "most_similar_patients": [
+      "TCGA-CV-5979",
+      "TCGA-CV-5973",
+      "TCGA-CR-7373",
+      "TCGA-CQ-7065",
+      "TCGA-DQ-7588"
+    ],
+    "similarity_scores": [
+      0.8936,
+      0.8267,
+      0.748,
+      0.6995,
+      0.6893
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7367",
+    "most_similar_patients": [
+      "TCGA-CN-4729",
+      "TCGA-CN-5359",
+      "TCGA-CN-4741",
+      "TCGA-CR-6478",
+      "TCGA-BA-5557"
+    ],
+    "similarity_scores": [
+      0.7687,
+      0.6821,
+      0.643,
+      0.6256,
+      0.5997
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7368",
+    "most_similar_patients": [
+      "TCGA-D6-6823",
+      "TCGA-CR-7385",
+      "TCGA-BA-4077",
+      "TCGA-CN-4741",
+      "TCGA-CV-6948"
+    ],
+    "similarity_scores": [
+      0.6013,
+      0.5589,
+      0.5376,
+      0.5354,
+      0.5179
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7372",
+    "most_similar_patients": [
+      "TCGA-CN-4742",
+      "TCGA-CN-4737",
+      "TCGA-CV-7263",
+      "TCGA-CR-7379",
+      "TCGA-CV-6956"
+    ],
+    "similarity_scores": [
+      0.8222,
+      0.7752,
+      0.6894,
+      0.6501,
+      0.6393
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7373",
+    "most_similar_patients": [
+      "TCGA-CQ-7068",
+      "TCGA-CR-6493",
+      "TCGA-CV-7099",
+      "TCGA-BA-6872",
+      "TCGA-CN-6995"
+    ],
+    "similarity_scores": [
+      0.8164,
+      0.748,
+      0.7238,
+      0.6426,
+      0.6235
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7376",
+    "most_similar_patients": [
+      "TCGA-CN-5359",
+      "TCGA-CV-5971",
+      "TCGA-CR-7391",
+      "TCGA-CV-7238",
+      "TCGA-CR-6488"
+    ],
+    "similarity_scores": [
+      0.8744,
+      0.8625,
+      0.8547,
+      0.8398,
+      0.7807
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7379",
+    "most_similar_patients": [
+      "TCGA-CV-7413",
+      "TCGA-CN-4742",
+      "TCGA-CN-4737",
+      "TCGA-CV-7416",
+      "TCGA-CX-7086"
+    ],
+    "similarity_scores": [
+      0.8756,
+      0.869,
+      0.8452,
+      0.7784,
+      0.732
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7383",
+    "most_similar_patients": [
+      "TCGA-CN-6016",
+      "TCGA-CV-5971",
+      "TCGA-CV-7097",
+      "TCGA-CR-7376",
+      "TCGA-CN-5364"
+    ],
+    "similarity_scores": [
+      0.8791,
+      0.8317,
+      0.8018,
+      0.7783,
+      0.7721
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7385",
+    "most_similar_patients": [
+      "TCGA-CR-6481",
+      "TCGA-CV-7100",
+      "TCGA-CV-6433",
+      "TCGA-BA-5153",
+      "TCGA-CR-7368"
+    ],
+    "similarity_scores": [
+      0.7072,
+      0.6175,
+      0.596,
+      0.578,
+      0.5589
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7391",
+    "most_similar_patients": [
+      "TCGA-CR-7376",
+      "TCGA-CR-7401",
+      "TCGA-CN-5359",
+      "TCGA-CV-7238",
+      "TCGA-CR-6488"
+    ],
+    "similarity_scores": [
+      0.8547,
+      0.8408,
+      0.8276,
+      0.7852,
+      0.7509
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7392",
+    "most_similar_patients": [
+      "TCGA-CR-6477",
+      "TCGA-CN-4742",
+      "TCGA-CR-7391",
+      "TCGA-CN-4740",
+      "TCGA-CR-7376"
+    ],
+    "similarity_scores": [
+      0.6859,
+      0.6791,
+      0.6628,
+      0.6609,
+      0.612
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7394",
+    "most_similar_patients": [
+      "TCGA-CQ-5331",
+      "TCGA-BA-5557",
+      "TCGA-CV-7411",
+      "TCGA-BA-5556",
+      "TCGA-CR-7391"
+    ],
+    "similarity_scores": [
+      0.8409,
+      0.7157,
+      0.7103,
+      0.6902,
+      0.6287
+    ]
+  },
+  {
+    "patient_id": "TCGA-CR-7401",
+    "most_similar_patients": [
+      "TCGA-CR-7391",
+      "TCGA-CR-6488",
+      "TCGA-CN-6016",
+      "TCGA-CV-7238",
+      "TCGA-DQ-5624"
+    ],
+    "similarity_scores": [
+      0.8408,
+      0.8334,
+      0.7957,
+      0.7796,
+      0.7643
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-5442",
+    "most_similar_patients": [
+      "TCGA-CV-7183",
+      "TCGA-CR-6493",
+      "TCGA-D6-6516",
+      "TCGA-BA-6872",
+      "TCGA-CN-4726"
+    ],
+    "similarity_scores": [
+      0.5853,
+      0.5371,
+      0.4992,
+      0.4776,
+      0.4773
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-5971",
+    "most_similar_patients": [
+      "TCGA-CR-7376",
+      "TCGA-CV-7238",
+      "TCGA-CN-6016",
+      "TCGA-CR-7383",
+      "TCGA-CR-6488"
+    ],
+    "similarity_scores": [
+      0.8625,
+      0.8504,
+      0.8406,
+      0.8317,
+      0.7536
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-5973",
+    "most_similar_patients": [
+      "TCGA-CV-5979",
+      "TCGA-CQ-7065",
+      "TCGA-BB-4224",
+      "TCGA-CR-6493",
+      "TCGA-DQ-7588"
+    ],
+    "similarity_scores": [
+      0.854,
+      0.8535,
+      0.8286,
+      0.8267,
+      0.7796
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-5979",
+    "most_similar_patients": [
+      "TCGA-CR-6493",
+      "TCGA-CQ-7065",
+      "TCGA-CV-5973",
+      "TCGA-DQ-7588",
+      "TCGA-BB-4224"
+    ],
+    "similarity_scores": [
+      0.8936,
+      0.8632,
+      0.854,
+      0.811,
+      0.8068
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-6433",
+    "most_similar_patients": [
+      "TCGA-BA-5153",
+      "TCGA-BB-4225",
+      "TCGA-BB-4228",
+      "TCGA-CR-6487",
+      "TCGA-CR-7385"
+    ],
+    "similarity_scores": [
+      0.968,
+      0.8854,
+      0.8355,
+      0.7221,
+      0.596
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-6441",
+    "most_similar_patients": [
+      "TCGA-BB-4224",
+      "TCGA-CV-5979",
+      "TCGA-BA-4077",
+      "TCGA-CX-7082",
+      "TCGA-CN-6995"
+    ],
+    "similarity_scores": [
+      0.5826,
+      0.5048,
+      0.4701,
+      0.4146,
+      0.3746
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-6934",
+    "most_similar_patients": [
+      "TCGA-CN-4740",
+      "TCGA-CV-7238",
+      "TCGA-CV-7263",
+      "TCGA-CR-7376",
+      "TCGA-CV-5971"
+    ],
+    "similarity_scores": [
+      0.8634,
+      0.6371,
+      0.622,
+      0.6187,
+      0.6031
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-6945",
+    "most_similar_patients": [
+      "TCGA-BA-7269",
+      "TCGA-DQ-5624",
+      "TCGA-CR-6477",
+      "TCGA-CV-7236",
+      "TCGA-CN-5359"
+    ],
+    "similarity_scores": [
+      0.7786,
+      0.6477,
+      0.5773,
+      0.5633,
+      0.5231
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-6948",
+    "most_similar_patients": [
+      "TCGA-CQ-5332",
+      "TCGA-BA-4077",
+      "TCGA-CX-7082",
+      "TCGA-BA-7269",
+      "TCGA-CV-7235"
+    ],
+    "similarity_scores": [
+      0.6593,
+      0.6281,
+      0.5448,
+      0.5417,
+      0.5333
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-6956",
+    "most_similar_patients": [
+      "TCGA-CQ-7065",
+      "TCGA-CV-7255",
+      "TCGA-CN-4737",
+      "TCGA-CX-7086",
+      "TCGA-BB-4224"
+    ],
+    "similarity_scores": [
+      0.9134,
+      0.9085,
+      0.867,
+      0.8502,
+      0.8436
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-6959",
+    "most_similar_patients": [
+      "TCGA-CV-6934",
+      "TCGA-CQ-5330",
+      "TCGA-CV-7102",
+      "TCGA-CV-7263",
+      "TCGA-DQ-5625"
+    ],
+    "similarity_scores": [
+      0.554,
+      0.5378,
+      0.5278,
+      0.5263,
+      0.4819
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7097",
+    "most_similar_patients": [
+      "TCGA-CQ-5330",
+      "TCGA-DQ-5625",
+      "TCGA-CN-6016",
+      "TCGA-CN-6018",
+      "TCGA-CR-7383"
+    ],
+    "similarity_scores": [
+      0.829,
+      0.8236,
+      0.8201,
+      0.8158,
+      0.8018
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7099",
+    "most_similar_patients": [
+      "TCGA-CQ-7068",
+      "TCGA-CR-7373",
+      "TCGA-H7-7774",
+      "TCGA-BA-5556",
+      "TCGA-CV-5973"
+    ],
+    "similarity_scores": [
+      0.8352,
+      0.7238,
+      0.6636,
+      0.5313,
+      0.5298
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7100",
+    "most_similar_patients": [
+      "TCGA-CV-7235",
+      "TCGA-CR-7385",
+      "TCGA-CV-6433",
+      "TCGA-CR-6487",
+      "TCGA-CR-6481"
+    ],
+    "similarity_scores": [
+      0.6661,
+      0.6175,
+      0.5358,
+      0.5137,
+      0.5068
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7102",
+    "most_similar_patients": [
+      "TCGA-CQ-5330",
+      "TCGA-CN-6018",
+      "TCGA-CN-6016",
+      "TCGA-CR-7383",
+      "TCGA-CV-7097"
+    ],
+    "similarity_scores": [
+      0.8723,
+      0.7666,
+      0.7382,
+      0.6916,
+      0.6818
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7103",
+    "most_similar_patients": [
+      "TCGA-CX-7082",
+      "TCGA-CN-4737",
+      "TCGA-CV-7263",
+      "TCGA-CV-6956",
+      "TCGA-CR-7379"
+    ],
+    "similarity_scores": [
+      0.8281,
+      0.7152,
+      0.6266,
+      0.5951,
+      0.5899
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7183",
+    "most_similar_patients": [
+      "TCGA-CV-7411",
+      "TCGA-CN-4726",
+      "TCGA-H7-7774",
+      "TCGA-CV-5973",
+      "TCGA-CV-5442"
+    ],
+    "similarity_scores": [
+      0.8706,
+      0.6832,
+      0.6603,
+      0.5981,
+      0.5853
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7235",
+    "most_similar_patients": [
+      "TCGA-CV-7100",
+      "TCGA-CV-6948",
+      "TCGA-BA-7269",
+      "TCGA-DQ-7588",
+      "TCGA-BA-4077"
+    ],
+    "similarity_scores": [
+      0.6661,
+      0.5333,
+      0.532,
+      0.504,
+      0.4647
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7236",
+    "most_similar_patients": [
+      "TCGA-CR-7376",
+      "TCGA-CN-5359",
+      "TCGA-CR-6478",
+      "TCGA-DQ-5624",
+      "TCGA-CR-6488"
+    ],
+    "similarity_scores": [
+      0.7687,
+      0.7566,
+      0.6991,
+      0.6983,
+      0.6297
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7238",
+    "most_similar_patients": [
+      "TCGA-CR-6488",
+      "TCGA-CV-5971",
+      "TCGA-DQ-5624",
+      "TCGA-CR-7376",
+      "TCGA-CR-7391"
+    ],
+    "similarity_scores": [
+      0.8591,
+      0.8504,
+      0.8407,
+      0.8398,
+      0.7852
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7255",
+    "most_similar_patients": [
+      "TCGA-CV-6956",
+      "TCGA-CN-4737",
+      "TCGA-CQ-7065",
+      "TCGA-CV-7416",
+      "TCGA-CX-7086"
+    ],
+    "similarity_scores": [
+      0.9085,
+      0.8522,
+      0.8513,
+      0.8272,
+      0.8169
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7263",
+    "most_similar_patients": [
+      "TCGA-CX-7082",
+      "TCGA-CR-7372",
+      "TCGA-CN-4737",
+      "TCGA-CV-7103",
+      "TCGA-CV-6934"
+    ],
+    "similarity_scores": [
+      0.7384,
+      0.6894,
+      0.6354,
+      0.6266,
+      0.622
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7411",
+    "most_similar_patients": [
+      "TCGA-CV-7183",
+      "TCGA-H7-7774",
+      "TCGA-CR-7394",
+      "TCGA-CN-4726",
+      "TCGA-CQ-5331"
+    ],
+    "similarity_scores": [
+      0.8706,
+      0.7362,
+      0.7103,
+      0.6052,
+      0.5805
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7413",
+    "most_similar_patients": [
+      "TCGA-CR-7379",
+      "TCGA-CN-4742",
+      "TCGA-CV-7416",
+      "TCGA-CN-4737",
+      "TCGA-CV-7255"
+    ],
+    "similarity_scores": [
+      0.8756,
+      0.8538,
+      0.7346,
+      0.6749,
+      0.5807
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7416",
+    "most_similar_patients": [
+      "TCGA-CV-6956",
+      "TCGA-CV-7255",
+      "TCGA-DQ-7588",
+      "TCGA-CR-7379",
+      "TCGA-CX-7086"
+    ],
+    "similarity_scores": [
+      0.8302,
+      0.8272,
+      0.8088,
+      0.7784,
+      0.7555
+    ]
+  },
+  {
+    "patient_id": "TCGA-CV-7434",
+    "most_similar_patients": [
+      "TCGA-BA-6872",
+      "TCGA-CQ-5334",
+      "TCGA-D6-6516",
+      "TCGA-CQ-7068",
+      "TCGA-BA-6873"
+    ],
+    "similarity_scores": [
+      0.8511,
+      0.8251,
+      0.8072,
+      0.7515,
+      0.7329
+    ]
+  },
+  {
+    "patient_id": "TCGA-CX-7082",
+    "most_similar_patients": [
+      "TCGA-CV-7103",
+      "TCGA-CV-7263",
+      "TCGA-CX-7086",
+      "TCGA-CV-6956",
+      "TCGA-CN-4737"
+    ],
+    "similarity_scores": [
+      0.8281,
+      0.7384,
+      0.7151,
+      0.685,
+      0.5899
+    ]
+  },
+  {
+    "patient_id": "TCGA-CX-7086",
+    "most_similar_patients": [
+      "TCGA-CV-6956",
+      "TCGA-CV-7255",
+      "TCGA-BB-4224",
+      "TCGA-CV-7416",
+      "TCGA-CR-7379"
+    ],
+    "similarity_scores": [
+      0.8502,
+      0.8169,
+      0.7675,
+      0.7555,
+      0.732
+    ]
+  },
+  {
+    "patient_id": "TCGA-D6-6516",
+    "most_similar_patients": [
+      "TCGA-CV-7434",
+      "TCGA-CQ-5334",
+      "TCGA-CQ-5331",
+      "TCGA-BA-5556",
+      "TCGA-CN-4729"
+    ],
+    "similarity_scores": [
+      0.8072,
+      0.7152,
+      0.6694,
+      0.6693,
+      0.6286
+    ]
+  },
+  {
+    "patient_id": "TCGA-D6-6823",
+    "most_similar_patients": [
+      "TCGA-BA-4074",
+      "TCGA-CR-7368",
+      "TCGA-CV-7236",
+      "TCGA-CV-7263",
+      "TCGA-DQ-5631"
+    ],
+    "similarity_scores": [
+      0.6312,
+      0.6013,
+      0.3634,
+      0.3431,
+      0.3078
+    ]
+  },
+  {
+    "patient_id": "TCGA-DQ-5624",
+    "most_similar_patients": [
+      "TCGA-CV-7238",
+      "TCGA-CR-6488",
+      "TCGA-CR-7401",
+      "TCGA-CN-6016",
+      "TCGA-CN-5359"
+    ],
+    "similarity_scores": [
+      0.8407,
+      0.7932,
+      0.7643,
+      0.7526,
+      0.7016
+    ]
+  },
+  {
+    "patient_id": "TCGA-DQ-5625",
+    "most_similar_patients": [
+      "TCGA-CQ-5330",
+      "TCGA-CV-7097",
+      "TCGA-CN-6016",
+      "TCGA-CV-5971",
+      "TCGA-CR-7401"
+    ],
+    "similarity_scores": [
+      0.8246,
+      0.8236,
+      0.7429,
+      0.6537,
+      0.6273
+    ]
+  },
+  {
+    "patient_id": "TCGA-DQ-5631",
+    "most_similar_patients": [
+      "TCGA-BA-4074",
+      "TCGA-CV-5979",
+      "TCGA-CR-6493",
+      "TCGA-CQ-7065",
+      "TCGA-CV-7102"
+    ],
+    "similarity_scores": [
+      0.7166,
+      0.621,
+      0.5872,
+      0.4607,
+      0.4501
+    ]
+  },
+  {
+    "patient_id": "TCGA-DQ-7588",
+    "most_similar_patients": [
+      "TCGA-CV-5979",
+      "TCGA-CV-7416",
+      "TCGA-CV-5973",
+      "TCGA-CQ-7065",
+      "TCGA-CV-6956"
+    ],
+    "similarity_scores": [
+      0.811,
+      0.8088,
+      0.7796,
+      0.7419,
+      0.7252
+    ]
+  },
+  {
+    "patient_id": "TCGA-H7-7774",
+    "most_similar_patients": [
+      "TCGA-CV-7411",
+      "TCGA-CV-7099",
+      "TCGA-CV-7183",
+      "TCGA-BA-5556",
+      "TCGA-CR-7394"
+    ],
+    "similarity_scores": [
+      0.7362,
+      0.6636,
+      0.6603,
+      0.4854,
+      0.4655
+    ]
+  },
+  {
+    "patient_id": "TCGA-HD-7831",
+    "most_similar_patients": [
+      "TCGA-CR-6477",
+      "TCGA-CN-6016",
+      "TCGA-CV-5971",
+      "TCGA-CR-7401",
+      "TCGA-DQ-5624"
+    ],
+    "similarity_scores": [
+      0.7097,
+      0.6513,
+      0.5897,
+      0.5786,
+      0.547
+    ]
+  }
+]
