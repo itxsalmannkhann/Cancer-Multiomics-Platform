@@ -1,0 +1,72 @@
+{
+  "task": "task3_risk_factors",
+  "label_col": "smoking_status",
+  "classes": [
+    "Non-Smoker",
+    "Smoker"
+  ],
+  "n_samples": 79,
+  "n_features_total": 4060,
+  "k_best_selected": 50,
+  "cv_folds": 5,
+  "best_model": "logistic_regression",
+  "all_model_results": {
+    "logistic_regression": {
+      "accuracy": 0.8354430379746836,
+      "macro_f1": 0.751030303030303,
+      "weighted_f1": 0.8299378596087458,
+      "precision_macro": 0.7708333333333333,
+      "recall_macro": 0.7367941712204007,
+      "cohen_kappa": 0.5031446540880503,
+      "roc_auc": 0.7650273224043715,
+      "confusion_matrix": [
+        [
+          10,
+          8
+        ],
+        [
+          5,
+          56
+        ]
+      ]
+    },
+    "random_forest": {
+      "accuracy": 0.810126582278481,
+      "macro_f1": 0.643609022556391,
+      "weighted_f1": 0.7762063386313885,
+      "precision_macro": 0.7668650793650793,
+      "recall_macro": 0.622495446265938,
+      "cohen_kappa": 0.31224608241439344,
+      "roc_auc": 0.6912568306010929,
+      "confusion_matrix": [
+        [
+          5,
+          13
+        ],
+        [
+          2,
+          59
+        ]
+      ]
+    },
+    "lightgbm": {
+      "accuracy": 0.7848101265822784,
+      "macro_f1": 0.6880371660859466,
+      "weighted_f1": 0.7826107411164528,
+      "precision_macro": 0.6921252371916509,
+      "recall_macro": 0.6844262295081966,
+      "cohen_kappa": 0.3762192289828147,
+      "roc_auc": 0.7358834244080146,
+      "confusion_matrix": [
+        [
+          9,
+          9
+        ],
+        [
+          8,
+          53
+        ]
+      ]
+    }
+  }
+}
