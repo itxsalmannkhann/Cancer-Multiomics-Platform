@@ -1,0 +1,72 @@
+{
+  "task": "task2_stage",
+  "label_col": "stage_group",
+  "classes": [
+    "Early (I/II)",
+    "Late (III/IV)"
+  ],
+  "n_samples": 70,
+  "n_features_total": 4064,
+  "k_best_selected": 50,
+  "cv_folds": 5,
+  "best_model": "lightgbm",
+  "all_model_results": {
+    "logistic_regression": {
+      "accuracy": 0.6,
+      "macro_f1": 0.49432404540763675,
+      "weighted_f1": 0.5933952528379773,
+      "precision_macro": 0.4946581196581197,
+      "recall_macro": 0.495,
+      "cohen_kappa": -0.010309278350515427,
+      "roc_auc": 0.518,
+      "confusion_matrix": [
+        [
+          5,
+          15
+        ],
+        [
+          13,
+          37
+        ]
+      ]
+    },
+    "random_forest": {
+      "accuracy": 0.6857142857142857,
+      "macro_f1": 0.48043184885290147,
+      "weighted_f1": 0.6203971467129362,
+      "precision_macro": 0.5260416666666666,
+      "recall_macro": 0.51,
+      "cohen_kappa": 0.025316455696202445,
+      "roc_auc": 0.5875,
+      "confusion_matrix": [
+        [
+          2,
+          18
+        ],
+        [
+          4,
+          46
+        ]
+      ]
+    },
+    "lightgbm": {
+      "accuracy": 0.6857142857142857,
+      "macro_f1": 0.6258503401360545,
+      "weighted_f1": 0.6899902818270166,
+      "precision_macro": 0.6231060606060606,
+      "recall_macro": 0.63,
+      "cohen_kappa": 0.2524271844660194,
+      "roc_auc": 0.627,
+      "confusion_matrix": [
+        [
+          10,
+          10
+        ],
+        [
+          12,
+          38
+        ]
+      ]
+    }
+  }
+}
