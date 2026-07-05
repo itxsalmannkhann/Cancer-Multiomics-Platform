@@ -1,5 +1,11 @@
 # Cancer Multi-Omics Intelligence Platform
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
+[![Docker Ready](https://img.shields.io/badge/Docker-ready-2496ED.svg)](Dockerfile)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-v2.1-purple.svg)](CODE_OF_CONDUCT.md)
+
 Built for **NeoHacks GIKI Edition 2025**. An end-to-end, real (not templated)
 multi-omics ML pipeline + Streamlit app trained on a **TCGA Head & Neck
 Squamous Cell Carcinoma (HNSC) cohort**.
