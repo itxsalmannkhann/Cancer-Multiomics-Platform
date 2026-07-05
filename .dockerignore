@@ -1,0 +1,27 @@
+# Version control
+.git
+.gitignore
+.gitattributes
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local tooling / logs
+install_log.txt
+*.log
+.DS_Store
+
+# Docs and CI that aren't needed inside the image
+docs/
+.github/
+*.md
+!README.md
+
+# Editor config
+.editorconfig
+.vscode/
+.idea/
