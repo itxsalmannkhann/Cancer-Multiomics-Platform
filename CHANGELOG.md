@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+_No unreleased changes yet._
+
+## [1.1.0] — 2026-07-05
+
 ### Added
 - **Centralized UI theme** (`streamlit_app/ui/theme.py`, `streamlit_app/ui/__init__.py`)
   as the single source of truth for the dashboard's visual language: clinical
