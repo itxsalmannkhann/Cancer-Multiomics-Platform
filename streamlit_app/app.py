@@ -27,7 +27,7 @@ meth = load_csv("methylation_matrix.csv")
 summary = load_report("all_tasks_summary.json")
 
 # ----------------------------------------------------------------- KPI row
-section("Cohort at a glance", "Key figures across the integrated multi-omics dataset", "📌")
+section("Cohort at a glance", "Key figures across the integrated multi-omics dataset")
 c1, c2, c3, c4, c5 = st.columns(5)
 c1.metric("Patients", clinical["patient_id"].nunique())
 c2.metric("Tumor samples", int((expr["sample_type"] == "Tumor").sum()))
