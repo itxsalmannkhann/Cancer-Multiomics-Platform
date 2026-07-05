@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Cancer Multi-Omics Intelligence Platform"
+abstract: >-
+  An end-to-end multi-omics machine learning pipeline and Streamlit dashboard
+  for a TCGA Head & Neck Squamous Cell Carcinoma (HNSC) cohort, covering
+  tumor-vs-normal classification, stage classification, molecular smoking-status
+  prediction, and Cox survival risk scoring with SHAP explainability.
+type: software
+authors:
+  - family-names: Khan
+    given-names: Salman
+version: 1.1.0
+date-released: 2026-07-05
+license: MIT
+keywords:
+  - multi-omics
+  - cancer genomics
+  - machine learning
+  - survival analysis
+  - explainable ai
+  - TCGA
+  - HNSC
